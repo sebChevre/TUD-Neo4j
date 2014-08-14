@@ -1,0 +1,195 @@
+156 157
+Gare
+Centre
+Centre sportif
+Tuilerie
+Jura Centre
+Gare
+Colonel-Hoffmeyer
+Ecole secondaire
+Garage St-Hubert
+Gare
+Route de Boécourt
+Chez le Minet
+Bureau communal
+La Monte
+Collège
+Bas du village
+Séprais
+La Vélie
+Village
+Bassecourt Courfaivre Boécourt Glovelier Séprais Montavon
+Lundi-vendredi sauf Fêtes générales Lundi-vendredi sauf Fêtes générales
+Corresp. 
+trains
+Delémont, Dp 06:23 07:23 08:23 09:23 10:23 11:23 .... 13:23 14:23 .... 15:23 16:23 17:23 18:23
+Courfaivre, Ar 06:28 07:28 08:28 09:28 10:28 11:28 .... 13:28 14:28 .... 15:28 16:28 17:28 18:28
+Porrentruy, Dp 06:07 07:07 08:07 09:07 10:07 11:07 .... 13:07 14:07 .... 15:07 16:07 17:07 18:07
+Courfaivre, Ar 06:28 07:28 08:28 09:28 10:28 11:28 .... 13:28 14:28 .... 15:28 16:28 17:28 18:28
+➔
+11 F 12 F
+Courfaivre, gare 06:31 07:13 07:31 08:31 09:31 10:31 11:31 .... 13:10 13:31 14:31 .... 15:31 16:31 17:31 18:31
+Course de nuit voir sous pages  
+spéciales NOCTAMBUS
+Courfaivre, centre 06:31 07:13 07:31 08:31 09:31 10:31 11:31 .... 13:10 13:31 14:31 .... 15:31 16:31 17:31 18:31
+Courfaivre, centre sportif 06:32 07:14 07:32 08:32 09:32 10:32 11:32 .... 13:11 13:32 14:32 .... 15:32 16:32 17:32 18:32
+Courfaivre, Tuilerie 06:33 07:15 07:33 08:33 09:33 10:33 11:33 .... 13:12 13:33 14:33 .... 15:33 16:33 17:33 18:33
+Bassecourt, Jura Centre 06:35 07:17 07:35 08:35 09:35 10:35 11:35 11:46 13:14 13:35 14:35 15:21 15:35 16:35 17:35 18:35
+Bassecourt, gare 06:37 07:18 07:37 08:37 09:37 10:37 11:37 11:48 13:15 13:37 14:37 15:23 15:37 16:37 17:37 18:37
+Corresp. 
+trains
+Bassecourt, Dp 06:48 07:31 07:48 08:48 09:48 10:48 11:48 .... 13:31 13:48 14:48 .... 15:48 16:48 17:48 18:48
+Porrentruy, Ar 07:06 07:52 08:06 09:06 10:06 11:06 12:06 .... 13:52 14:06 15:06 .... 16:06 17:06 18:06 19:06
+Porrentruy, Dp 06:07 07:07 08:07 09:07 10:07 11:07 .... 13:07 14:07 .... 15:07 16:07 17:07 18:07
+Bassecourt, Ar 06:23 07:23 08:23 09:23 10:23 11:23 .... 13:23 14:23 .... 15:23 16:23 17:23 18:23
+Bassecourt, gare 06:38 07:18 07:38 08:38 09:38 10:38 11:50 .... 13:15 13:38 14:38 ... 15:38 16:47 17:38 18:38
+Bassecourt, Colonel-Hoffmeyer 06:39 07:19 07:39 08:39 09:39 10:39 11:51 .... 13:16 13:39 14:39 .... 15:39 16:48 17:39 18:39
+Bassecourt, école secondaire 06:40 07:20 07:40 08:40 09:40 10:40 11:52 .... 13:17 13:40 14:40 .... 15:40 16:49 17:40 18:40
+Bassecourt, garage St-Hubert 06:41 07:41 08:41 09:41 10:41 11:53 .... 13:41 14:41 .... 15:41 17:41 18:41
+Glovelier, gare 06:45 07:45 08:45 09:45 10:45 11:57 .... 13:45 14:45 .... 15:45 17:45 18:45
+Corresp.trains
+Delémont, Dp 06:23 07:23 08:23 09:23 10:23 11:23 .... 13:23 14:23 .... 15:23 17:23 18:23
+Glovelier, Ar 06:35 07:35 08:35 09:35 10:35 11:35 .... 13:35 14:35 .... 15:35 17:35 18:35
+Glovelier, ZAM 06:46 07:46 08:46 09:46 10:46 11:58 .... 13:46 14:46 .... 15:46 17:46 18:46
+Boécourt, Chez le Minet 06:48 07:48 08:48 09:48 10:48 12:00 .... 13:48 14:48 .... 15:48 17:48 18:48
+Boécourt, bureau communal 06:49 07:49 08:49 09:49 10:49 12:01 .... 13:49 14:52 .... 15:49 16:53 17:49 18:49
+Boécourt, La Monte 06:49 07:49 08:49 09:49 10:49 12:01 .... 13:49 14:52 .... 15:49 16:53 17:49 18:49
+Boécourt, collège 06:50 07:50 08:50 09:50 10:50 12:02 .... 13:50 14:53 .... 15:50 16:54 17:50 18:50
+Séprais, bas du village 06:52 07:52 08:52 09:52 10:52 12:04 .... 13:52 14:55 .... 15:52 16:56 17:52 18:52
+Séprais 06:53 07:53 08:53 09:53 10:53 12:05 .... 13:53 14:56 .... 15:53 16:57 17:53 18:53
+Montavon, La Vélie 06:57 07:57 08:57 09:57 10:57 12:09 .... 13:57 15:00 .... 15:57 17:01 17:57 18:57
+Montavon, village 06:57 07:57 08:57 09:57 10:57 12:09 .... 13:57 15:00 .... 15:57 17:01 17:57 18:57
+F  Cette course continue en direction de Soulce
+11 Uniquement en périodes scolaires
+12 Uniquement en périodes scolaires, lundi, mardi, jeudi, vendredi
+ä Pas toutes les courses. Réservation au 0848 40 20 40 du lundi au vendredi de 08 h 00 à 12 h 00 et de 13 h 30 à 17 h 00  
+(vendredi jusqu’à 16h00).
+Courfaivre-Bassecourt-Glovelier-Boécourt-Montavon  22.151 û Courfaivre-Bassecourt-Glovelier-Boécourt-Montavon  22.151 û
+51 51
+158 159
+Lundi-vendredi sauf Fêtes générales Lundi-vendredi sauf Fêtes générales
+➔
+11
+Montavon, village 06:01 07:01 08:01 09:01 10:01 11:01 .... .... 13:01 14:01 15:01 .... 16:01 17:01 18:01
+Course de nuit voir sous pages  
+spéciales NOCTAMBUS
+Montavon, La Vélie 06:01 07:01 08:01 09:01 10:01 11:01 .... .... 13:01 14:01 15:01 .... 16:01 17:01 18:01
+Séprais 06:03 07:03 08:03 09:03 10:03 11:03 .... .... 13:03 14:03 15:03 .... 16:03 17:03 18:03
+Séprais, bas du village 06:04 07:04 08:04 09:04 10:04 11:04 .... .... 13:04 14:04 15:04 .... 16:04 17:04 18:04
+Boécourt, collège 06:06 07:06 08:06 09:06 10:06 11:06 .... .... 13:06 14:06 15:06 .... 16:06 17:06 18:06
+Boécourt, La Monte 06:07 07:07 08:07 09:07 10:07 11:07 .... .... 13:07 14:07 15:07 .... 16:07 17:07 18:07
+Boécourt, bureau communal 06:08 07:08 08:08 09:08 10:08 11:08 .... .... 13:08 14:08 15:08 .... 16:08 17:08 18:08
+Boécourt, Chez le Minet 06:08 07:08 08:08 09:08 10:08 11:08 .... .... 13:08 14:08 15:08 .... 16:08 17:08 18:08
+Glovelier, ZAM 06:10 07:10 08:10 09:10 10:10 11:10 .... .... 13:10 14:10 15:10 .... 16:10 17:10 18:10
+Glovelier, gare 06:12 07:12 08:12 09:12 10:12 11:12 .... .... 13:12 14:12 15:12 .... 16:12 17:12 18:12
+Corresp.trains
+Glovelier, Dp 06:21 07:21 08:21 09:21 10:21 11:21 .... .... 13:21 14:21 15:21 .... 16:21 17:21 18:21
+Delémont, Ar 06:36 07:36 08:36 09:36 10:36 11:36 .... .... 13:36 14:36 15:36 .... 16:36 17:36 18:36
+Bassecourt, garage St-Hubert 06:15 07:15 08:15 09:15 10:15 11:15 .... .... 13:15 14:15 15:15 .... 16:15 17:15 18:15
+Bassecourt, école secondaire 06:16 07:16 08:16 09:16 10:16 11:16 .... 11:55 13:16 14:16 15:16 .... 16:16 17:16 18:16
+Bassecourt, Colonel-Hoffmeyer 06:17 07:17 08:17 09:17 10:17 11:17 .... 11:56 13:17 14:17 15:17 .... 16:17 17:17 18:17
+Bassecourt, gare 06:18 07:18 08:18 09:18 10:18 11:18 .... 11:57 13:18 14:18 15:18 .... 16:18 17:18 18:18
+Corresp.
+trains
+Bassecourt, Dp 06:31 07:31 08:31 09:31 10:31 11:31 .... .... 13:31 14:31 15:31 .... 16:31 17:31 18:31
+Porrentruy, Ar 06:52 07:52 08:52 09:52 10:52 11:52 .... .... 13:52 14:52 15:52 .... 16:52 17:52 18:52
+Porrentruy, Dp 05:45 06:52 07:52 08:52 09:52 10:52 .... .... 12:52 13:52 14:52 .... 15:52 16:52 17:52
+Bassecourt, Ar 06:03 07:09 08:09 09:09 10:09 11:09 .... .... 13:09 14:09 15:09 .... 16:09 17:09 18:09
+Bassecourt, gare 06:19 07:19 08:19 09:19 10:19 11:19 11:44 11:57 13:19 14:19 15:19 15:19 16:19 17:19 18:19
+Bassecourt, Jura Centre 06:20 07:20 08:20 09:20 10:20 11:20 11:45 11:58 13:20 14:20 15:20 15:20 16:20 17:20 18:20
+Courfaivre, Tuilerie 06:22 07:22 08:22 09:22 10:22 11:22 .... 12:00 13:22 14:22 15:22 .... 16:22 17:22 18:22
+Courfaivre, centre sportif 06:23 07:23 08:23 09:23 10:23 11:23 .... 12:01 13:23 14:23 15:23 .... 16:23 17:23 18:23
+Courfaivre, centre 06:24 07:24 08:24 09:24 10:24 11:24 .... 12:02 13:24 14:24 15:24 .... 16:24 17:24 18:24
+Courfaivre, gare 06:27 07:27 08:27 09:27 10:27 11:27 .... 12:04 13:27 14:27 15:27 .... 16:27 17:27 18:27
+Corresp.
+trains
+Courfaivre, Dp 06:29 07:29 08:29 09:29 10:29 11:29 .... .... 13:29 14:29 15:29 .... 16:29 17:29 18:29
+Porrentruy, Ar 06:52 07:52 08:52 09:52 10:52 11:52 .... .... 13:52 14:52 15:52 .... 16:52 17:52 18:52
+Courfaivre, Dp 06:29 07:29 08:29 09:29 10:29 11:29 .... .... 13:29 14:29 15:29 .... 16:29 17:29 18:29
+Delémont, Ar 06:36 07:36 08:36 09:36 10:36 11:36 .... .... 13:36 14:36 15:36 .... 16:36 17:36 18:36
+11 Uniquement en périodes scolaires
+Courfaivre-Bassecourt-Glovelier-Boécourt-Montavon  22.151 û Courfaivre-Bassecourt-Glovelier-Boécourt-Montavon  22.151 û
+51 51
+160 161
+Samedi sauf Fêtes générales
+Corresp. 
+trains
+Delémont, Dp 08:23 09:23 12:23 13:23 16:23 17:23
+Courfaivre, Ar 08:28 09:28 12:28 13:28 16:28 17:28
+Porrentruy, Dp 08:07 09:07 12:07 13:07 16:07 17:07
+Courfaivre, Ar 08:28 09:28 12:28 13:28 16:28 17:28
+➔
+F F F
+Courfaivre, gare 08:31 09:31 12:31 13:31 16:31 17:31
+Course de nuit voir sous pages 
+spéciales NOCTAMBUS
+Courfaivre, centre 08:31 09:31 12:31 13:31 16:31 17:31
+Courfaivre, centre sportif 08:32 09:32 12:32 13:32 16:32 17:32
+Courfaivre, Tuilerie 08:33 09:33 12:33 13:33 16:33 17:33
+Bassecourt, Jura Centre 08:35 09:35 12:35 13:35 16:35 17:35
+Bassecourt, gare 08:37 09:37 12:37 13:37 16:37 17:37
+Corresp. 
+trains
+Bassecourt, Dp 08:48 09:48 12:48 13:48 16:48 17:48
+Porrentruy, Ar 09:06 10:06 13:06 14:06 17:06 18:06
+Porrentruy, Dp 08:07 .... 12:07 .... 16:07 ....
+Bassecourt, Ar 08:23 .... 12:23 .... 16:23 ....
+Bassecourt, gare 08:38 .... 12:38 .... 16:38 ....
+Bassecourt, Colonel-Hoffmeyer 08:39 .... 12:39 .... 16:39 ....
+Bassecourt, école secondaire 08:40 .... 12:40 .... 16:40 ....
+Bassecourt, garage St-Hubert 08:41 .... 12:41 .... 16:41 ....
+Glovelier, gare 08:45 .... 12:45 .... 16:45 ....
+Corresp. trains
+Delémont, Dp 08:23 .... 12:23 .... 16:23 ....
+Glovelier, Ar 08:35 .... 12:35 .... 16:35 ....
+Glovelier, ZAM 08:46 .... 12:46 .... 16:46 ....
+Boécourt, Chez le Minet 08:48 .... 12:48 .... 16:48 ....
+Boécourt, bureau communal 08:49 .... 12:49 .... 16:49 ....
+Boécourt, La Monte 08:49 .... 12:49 .... 16:49 ....
+Boécourt, collège 08:50 .... 12:50 .... 16:50 ....
+Séprais, bas du village 08:52 .... 12:52 .... 16:52 ....
+Séprais 08:53 .... 12:53 .... 16:53 ....
+Montavon, La Vélie 08:57 .... 12:57 .... 16:57 ....
+Montavon, village 08:57 .... 12:57 .... 16:57 ....
+F  Cette course continue en direction de Soulce
+Samedi sauf Fêtes générales
+➔
+Montavon, village .... 09:01 .... 13:01 .... 17:01
+Course de nuit voir sous pages 
+spéciales NOCTAMBUS
+Montavon, La Vélie .... 09:01 .... 13:01 .... 17:01
+Séprais .... 09:03 .... 13:03 .... 17:03
+Séprais, bas du village .... 09:04 .... 13:04 .... 17:04
+Boécourt, collège .... 09:06 .... 13:06 .... 17:06
+Boécourt, La Monte .... 09:07 .... 13:07 .... 17:07
+Boécourt, bureau communal .... 09:08 .... 13:08 .... 17:08
+Boécourt, Chez le Minet .... 09:08 .... 13:08 .... 17:08
+Glovelier, ZAM .... 09:10 .... 13:10 .... 17:10
+Glovelier, gare .... 09:12 .... 13:12 .... 17:12
+Corresp. trains
+Glovelier, Dp .... 09:21 .... 13:21 .... 17:21
+Delémont, Ar .... 09:36 .... 13:36 .... 17:36
+Bassecourt, garage St-Hubert .... 09:15 .... 13:15 .... 17:15
+Bassecourt, école secondaire .... 09:16 .... 13:16 .... 17:16
+Bassecourt, Colonel-Hoffmeyer .... 09:17 .... 13:17 .... 17:17
+Bassecourt, gare .... 09:18 .... 13:18 .... 17:18
+Corresp. 
+trains
+Bassecourt, Dp .... 09:31 .... 13:31 .... 17:31
+Porrentruy, Ar .... 09:52 .... 13:52 .... 17:52
+Porrentruy, Dp 07:52 08:52 11:52 12:52 15:52 16:52
+Bassecourt, Ar 08:09 09:09 12:09 13:09 16:09 17:09
+Bassecourt, gare 08:19 09:19 12:19 13:19 16:19 17:19
+Bassecourt, Jura Centre 08:20 09:20 12:20 13:20 16:20 17:20
+Courfaivre, Tuilerie 08:22 09:22 12:22 13:22 16:22 17:22
+Courfaivre, centre sportif 08:23 09:23 12:23 13:23 16:23 17:23
+Courfaivre, centre 08:24 09:24 12:24 13:24 16:24 17:24
+Courfaivre, gare 08:27 09:27 12:27 13:27 16:27 17:27
+Corresp. 
+trains
+Courfaivre, Dp 08:29 09:29 12:29 13:29 16:29 17:29
+Porrentruy, Ar 08:52 09:52 12:52 13:52 16:52 17:52
+Courfaivre, Dp 08:29 09:29 12:29 13:29 16:29 17:29
+Delémont, Ar 08:36 09:36 12:36 13:36 16:36 17:36
+Courfaivre-Bassecourt-Glovelier-Boécourt-Montavon  22.151 û Courfaivre-Bassecourt-Glovelier-Boécourt-Montavon  22.151 û
+51 51

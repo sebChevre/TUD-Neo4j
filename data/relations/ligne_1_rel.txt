@@ -1,0 +1,20 @@
+Delémont, gare,1
+Delémont, Av. de la gare,1
+Delémont, Pré-Guillaume,1
+Delémont, rue du stand,1
+Delémont, Centre la Blancherie,1
+Delémont, Parc Gros-Pré,1
+Delémont, Home de la Promenade,1
+Delémont, Hôpital,1
+Delémont, rue Merett-Oppenheim,1
+Delémont, chemin du Palastre,1
+Delémont, rue des Sources,1
+Delémont, rue du Poujet,1
+Delémont, Home de la Promenade,1
+Delémont, Parc Gros-Pré,1
+Delémont, Centre la Blancherie,1
+Delémont, rue du stand,1
+Delémont, gare,1
+
+Delémont, rue Merett-Oppenheim,1
+Delémont, rue du Poujet,1

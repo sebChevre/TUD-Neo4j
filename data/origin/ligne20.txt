@@ -1,0 +1,102 @@
+20
+154
+Vicques-Vermes  22.220 û 20
+155
+Vicques-Vermes  22.220 û
+Samedi sauf Fêtes générales
+17
+Delémont, gare 07:23 12:03 13:23 16:23 17:23
+Vicques, Poste 07:50 12:16 13:35 16:35 17:35
+➔
+Vicques, poste 07:38 12:18 13:38 16:38 17:38
+Recolaine, Es Montes 07:39 12:19 13:39 16:39 17:39
+Recolaine, Pont de Cran 07:41 12:21 13:41 16:41 17:41
+Recolaine, La Filature 07:42 12:22 13:42 16:42 17:42
+Vermes, bif. Tiergarten 07:47 12:27 13:47 16:47 17:47
+Vermes, école 07:47 12:27 13:47 16:47 17:47
+Vermes, poste 07:50 12:30 13:50 16:50 17:50
+Dimanche ainsi que Fêtes générales
+17
+Delémont, gare 08:23 18:43
+Vicques, Poste 08:35 18:55
+➔
+Vicques, poste 08:38 19:03
+Recolaine, Es Montes 08:39 19:04
+Recolaine, Pont de Cran 08:41 19:06
+Recolaine, La Filature 08:42 19:07
+Vermes, bif. Tiergarten 08:47 19:12
+Vermes, école 08:47 19:12
+Vermes, poste 08:50 19:15
+Poste
+Es Montes
+Pont de Cran
+La Filature
+Bif. Tiergarten
+Ecole
+Poste
+Vicques Recolaine Vermes
+Samedi sauf Fêtes générales
+➔
+Vermes, poste 06:46 11:46 12:46 15:46 17:22
+Vermes, école 06:46 11:46 12:46 15:46 17:22
+Vermes, bif. Tiergarten 06:49 11:49 12:49 15:49 17:25
+Recolaine, La Filature 06:52 11:52 12:52 15:52 17:28
+Recolaine, Pont de Cran 06:55 11:55 12:55 15:55 17:31
+Recolaine, Es Montes 06:57 11:57 12:57 15:57 17:33
+Vicques, poste 06:58 11:58 12:58 15:58 17:34
+17
+Vicques, poste 07:00 12:00 13:00 16:00 18:00
+Delémont, gare 07:15 12:15 13:15 16:15 18:15
+Dimanche ainsi que Fêtes générales
+➔
+Vermes, poste  07:46 18:06
+Vermes, école 07:46 18:06
+Vermes, bif. Tiergarten 07:49 18:09
+Recolaine, La Filature 07:52 18:12
+Recolaine, Pont de Cran 07:55 18:15
+Recolaine, Es Montes 07:57 18:17
+Vicques, poste 07:58 18:18
+17
+Vicques, poste 08:00 18:20
+Delémont, gare 08:15 18:35
+Lundi-vendredi sauf Fêtes générales
+17
+Delémont, gare 06:23 07:03 07:43 11:43 13:03 15:23 16:03 16:43 17:43 18:23
+Vicques, Poste 06:33 07:15 07:55 11:55 13:15 15:55 16:16 16:55 17:55 18:35
+➔
+K
+Vicques, poste 06:38 07:30 08:00 12:00 13:20 15:15 15:43 16:20 17:00 18:00 18:40
+Recolaine, Es Montes 06:39 07:31 08:01 12:01 13:21 15:16 15:44 16:21 17:01 18:01 18:41
+Recolaine, Pont de Cran 06:41 07:33 08:03 12:03 13:23 15:18 15:46 16:23 17:03 18:03 18:43
+Recolaine, La Filature 06:42 07:34 08:04 12:04 13:24 15:19 15:47 16:24 17:04 18:04 18:44
+Vermes, bif. Tiergarten 06:47 07:39 08:09 12:09 13:29 15:24 15:52 16:29 17:09 18:09 18:49
+Vermes, école 06:47 07:39 08:09 12:09 13:29 15:24 15:52 16:29 17:09 18:09 18:49
+Vermes, poste 06:50 07:42 08:12 12:12 13:32 15:27 15:55 16:32 17:12 18:12 18:52
+ Lu-Ve en période scolaire  
+K Uniquement lundi, mardi, jeudi et vendredi en période scolaire
+Lundi-vendredi sauf Fêtes générales
+➔
+K
+Vermes, poste 06:06 07:06 07:46 11:41 13:03 15:02 15:30 16:06 16:46 17:26 18:26
+Vermes, école 06:06 07:06 07:46 11:41 13:03 15:02 15:30 16:06 16:46 17:26 18:26
+Vermes, bif. Tiergarten 06:09 07:09 07:49 11:44 13:06 15:05 15:33 16:09 16:49 17:29 18:29
+Recolaine, La Filature 06:12 07:12 07:52 11:47 13:09 15:08 15:36 16:12 16:52 17:32 18:32
+Recolaine, Pont de Cran 06:15 07:15 07:55 11:50 13:12 15:11 15:39 16:15 16:55 17:35 18:35
+Recolaine, Es Montes 06:17 07:17 07:57 11:52 13:14 15:13 15:41 16:17 16:57 17:37 18:37
+Vicques, poste 06:18 07:18 07:58 11:53 13:15 15:14 15:42 16:18 16:58 17:38 18:38
+17
+Vicques, poste 06:20 07:20 08:00 12:00 13:20 15:20 16:20 17:00 17:40 18:40
+Delémont, gare 06:35 07:35 08:15 12:15 13:35 15:35 16:35 17:15 17:55 18:55
+ Lu-Ve en période scolaire
+K Uniquement lundi, mardi, jeudi et vendredi en période scolaire
+ä Pas toutes les courses. Réservation au 
+0848 40 20 40 du lundi au jeudi de 
+08h00 à 12h00 et de 13h30 à 17h00 
+(vendredi jusqu’à 16h00)
+CarPostal Suisse SA (PAG)
+Région Ouest
+Place de la Poste 4
+2800 Delémont
+Fax 058 667 69 69
+www.carpostal.ch
+ouest@carpostal.ch

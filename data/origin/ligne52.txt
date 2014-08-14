@@ -1,0 +1,135 @@
+162 163
+Lundi-vendredi sauf Fêtes générales
+Correspondances 
+trains
+Delémont, Dp 06:23 07:23 .... 09:23 11:42 .... 13:23 15:23 .... 17:23 18:23
+Bassecourt, Ar 06:31 07:31 .... 09:31 11:48 .... 13:31 15:31 .... 17:31 18:31
+Porrentruy, Dp 06:07 07:07 .... 09:07 11:07 .... 13:07 15:07 .... 17:07 18:07
+Glovelier, Ar 06:21 07:21 .... 09:21 11:21 .... 13:21 15:21 .... 17:21 18:21
+Bassecourt, Ar 06:23 07:23 .... 09:23 11:23 .... 13:23 15:23 .... 17:23 18:23
+51
+Bassecourt, Jura Centre, Dp 07:25 .... 09:35 11:46 .... 13:25 15:21 .... 17:25 18:25
+Bassecourt, gare, Ar 07:29 .... 09:37 11:48 .... 13:29 15:23 .... 17:29 18:29
+➔
+A A B
+Bassecourt, gare 06:33 07:33 .... 09:38 11:50 .... 13:33 15:33 .... 17:33 18:33
+Bassecourt, Colonel-Hoffmeyer 06:34 07:34 .... 09:39 11:51 .... 13:34 15:34 .... 17:34 18:34
+Bassecourt, école secondaire 06:35 07:35 .... 09:40 11:52 .... 13:35 15:35 .... 17:35 18:35
+Bassecourt, garage St-Hubert 06:36 07:36 .... 09:41 11:53 .... 13:36 15:36 .... 17:36 18:36
+Bassecourt, bif. sur Glovelier 06:38 07:38 .... 09:43 11:55 .... 13:38 15:38 .... 17:38 18:38
+Berlincourt 06:40 07:40 .... 09:45 11:57 .... 13:40 15:40 .... 17:40 18:40
+Undervelier, Forges 06:42 07:42 .... 09:47 11:59 .... 13:42 15:42 .... 17:42 18:42
+Undervelier, poste 06:44 07:44 08:10 09:49 12:01 12:20 13:44 15:44 16:05 17:44 18:44
+Undervelier, Halle des fêtes 06:45 07:45 08:11 09:50 12:02 12:21 13:45 15:45 16:06 17:45 18:45
+Undervelier, Corfontaine 06:49 07:49 08:15 09:54 12:06 12:25 13:49 15:49 16:10 17:49 18:49
+Soulce, poste 06:52 07:52 08:18 09:57 12:09 12:28 13:52 15:52 16:13 17:52 18:52
+Soulce, milieu du village 06:54 07:54 08:20 09:59 12:11 12:30 13:54 15:54 16:15 17:54 18:54
+A Période d’école Jura, sauf férié Jura (Lu-Ve) (voir page 8)
+B Lu, ma, je, ve en périodes scolaires uniquement (voir page 8)
+ä Pas toutes les courses. Réservation au 0848 40 20 40 du lundi au vendredi de 08h00 à 12h00 et de 13h30 à 17h00  
+ (vendredi jusqu’à 16h00).
+Lundi-vendredi sauf Fêtes générales
+➔
+A F H A H B
+Soulce, milieu du village 05:59 06:59 07:59 08:59 11:24 12:14 12:59 14:59 15:59 16:59 17:59
+Soulce, poste 06:00 07:00 08:00 09:00 11:25 12:15 13:00 15:00 16:00 17:00 18:00
+Undervelier, Corfontaine 06:01 07:01 08:01 09:01 11:26 12:16 13:01 15:01 16:01 17:01 18:01
+Undervelier, Halle des fêtes 06:04 07:04 08:04 09:04 11:29 12:19 13:04 15:04 16:04 17:04 18:04
+Undervelier, poste 06:05 07:05 08:05 09:05 11:30 12:20 13:05 15:05 16:05 17:05 18:05
+Undervelier, Forges 06:07 07:07 09:07 11:32 13:07 15:07 17:07 18:07
+Berlincourt 06:11 07:11 .... 09:11 11:36 .... 13:11 15:11 .... 17:11 18:11
+Bassecourt, bif. sur Glovelier 06:12 07:12 .... 09:12 11:37 .... 13:12 15:12 .... 17:12 18:12
+Bassecourt, garage St-Hubert 06:15 07:15 .... 09:15 11:40 .... 13:15 15:15 .... 17:15 18:15
+Bassecourt, école secondaire 06:16 07:16 .... 09:16 11:41 .... 13:16 15:16 .... 17:16 18:16
+Bassecourt, Colonel-Hoffmeyer 06:17 07:17 .... 09:17 11:42 .... 13:17 15:17 .... 17:17 18:17
+Bassecourt, gare 06:18 07:18 ....  09:18 11:43 .... 13:18 15:18 .... 17:18 18:18
+51
+Bassecourt, gare, Dp 07:19 .... 11:44 .... 13:19 15:19 .... 17:19 18:19
+Bassecourt, Jura Centre, Ar 07:20 .... 11:45 .... 13:20 15:20 .... 17:20 18:20
+Correspondances 
+trains
+Bassecourt, Dp 06:31 07:31 .... 09:31 12:15 .... 13:31 15:31 .... 17:31 18:31
+Glovelier, Ar 06:35 07:35 .... 09:35 12:20 .... 13:35 15:35 .... 17:35 18:35
+Porrentruy, Ar 06:52 07:52 .... 09:52 .... .... 13:52 15:52 .... 17:52 18:52
+Bassecourt, Dp 06:23 07:23 .... 09:23 12:09 .... 13:23 15:23 .... 17:23 18:23
+Delémont, Ar 06:36 07:36 .... 09:36 12:18 .... 13:36 15:36 .... 17:36 18:36
+F Cette course continue jusqu’à Courfaivre gare avec un arrêt à Bassecourt, Jura Centre
+H Cette course continue jusqu’à Bassecourt, Jura Centre
+ä Pas toutes les courses. Réservation au 0848 40 20 40 du lundi au vendredi de 08h00 à 12h00 et de 13h30 à 17h00  
+ (vendredi jusqu’à 16h00).
+Gare
+Colonel-Hoffmeyer
+Ecole secondaire
+Garage St-Hubert
+Bif. sur Glovelier
+Berlincourt
+Forges
+Poste
+Halle des fêtes
+Corfontaine
+Poste
+Milieu du village
+Bassecourt Berlincourt Undervelier Soulce
+Bassecourt-Soulce  22.152 û Bassecourt-Soulce  22.152 û 52 52
+CarPostal Suisse SA (PAG)
+Région Ouest
+Place de la Poste 4
+2800 Delémont
+Fax 058 667 69 69
+www.carpostal.ch
+ouest@carpostal.ch
+CarPostal, point de départ de 
+vos plus belles randonnées.
+www.carpostal.ch 
+164 165
+Bassecourt-Soulce  22.152 û Bassecourt-Soulce  22.152 û 52 52
+Samedi sauf Fêtes générales
+Correspondances 
+trains
+Delémont, Dp 09:23 13:23 17:23
+Bassecourt, Ar 09:31 13:31 17:31
+Porrentruy, Dp 09:07 13:07 17:07
+Glovelier, Ar 09:21 13:21 17:23
+Bassecourt, Ar 09:23 13:23 17:23
+51
+Bassecourt, Jura Centre, Dp 09:35 13:35 17:35
+Bassecourt, gare, Ar 09:37 13:37 17:37
+➔
+Bassecourt, gare 09:38 13:38 17:38
+Bassecourt, Colonel-Hoffmeyer 09:39 13:39 17:39
+Bassecourt, école secondaire 09:40 13:40 17:40
+Bassecourt, garage St-Hubert 09:41 13:41 17:41
+Bassecourt, bif. sur Glovelier 09:43 13:43 17:43
+Berlincourt 09:45 13:45 17:45
+Undervelier, Forges 09:47 13:47 17:47
+Undervelier, poste 09:49 13:49 17:49
+Undervelier, Halle des fêtes 09:50 13:50 17:50
+Undervelier, Corfontaine 09:54 13:54 17:54
+Soulce, poste 09:57 13:57 17:57
+Soulce, milieu du village 09:59 13:59 17:59
+Samedi sauf Fêtes générales
+➔
+F F F
+Soulce, milieu du village 07:59 11:59 15:59
+Soulce, poste 08:00 12:00 16:00
+Undervelier, Corfontaine 08:01 12:01 16:01
+Undervelier, Halle des fêtes 08:04 12:04 16:04
+Undervelier, poste 08:05 12:05 16:05
+Undervelier, Forges 08:07 12:07 16:07
+Berlincourt 08:11 12:11 16:11
+Bassecourt, bif. sur Glovelier 08:12 12:12 16:12
+Bassecourt, garage St-Hubert 08:15 12:15 16:15
+Bassecourt, école secondaire 08:16 12:16 16:16
+Bassecourt, Colonel-Hoffmeyer 08:17 12:17 16:17
+Bassecourt, gare 08:18 12:18 16:18
+51
+Bassecourt, gare, Dp 08:19 12:19 16:19
+Bassecourt, Jura Centre, Ar 08:20 12:20 16:20
+Correspondances 
+trains
+Bassecourt, Dp 08:31 12:31 16:31
+Glovelier, Ar 08:35 12:35 16:35
+Porrentruy, Ar 08:52 12:52 16:52
+Bassecourt, Dp 08:23 12:23 16:23
+Delémont, Ar 08:36 12:36 16:36
+F Cette course continue jusqu’à Courfaivre gare avec un arrêt à Bassecourt, Jura Centre

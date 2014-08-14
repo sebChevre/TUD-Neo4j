@@ -1,0 +1,34 @@
+Delémont, gare
+Delémont, Av. de la gare
+Delémont, Le Ticle
+Delémont, rte de Bâle
+Delémont, Morépont
+Delémont, Usine à Gaz
+Delémont, Von Roll
+Delémont, rte de Courroux
+Courroux, poste
+Courroux, Les 3 Farine
+Courroux, La Forge
+Courcelon
+Vicques, bas du village
+Vicques, Cras de la Velle
+Vicques, poste
+Recolaine, Es Montes
+Recolaine, Pont de Cran
+Courchapoix, bas du village
+Courchapoix, village
+Corban, Sous-Vassa
+Corban, bas du village
+Corban, place du 23 juin
+Mervelier, Rue des Prés
+Mervelier, scierie
+Mervelier, poste
+Mervelier, haut du Village
+Montsevelier, village
+Montsevelier, poste
+
+Delémont, gare
+Delémont, Righi
+
+Courchapoix, village
+Corban, bas du village
