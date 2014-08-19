@@ -1,102 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="165c638b-92c4-4083-9918-b09039874e8c" name="Default" comment="Initial commit&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/excel/ok/datas.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/basex/BaseXTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/data/ExcelToEntityParserTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_neo4j_neo4j_kernel_test_jar_tests_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/config/Proxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\data\excel\relations.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\index\lucene.log.v0" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\index\lucene.log.v1" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\index\lucene.log.v2" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\neo4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\nioneo_logical.log.v0" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\nioneo_logical.log.v1" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\nioneo_logical.log.v2" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\rrd" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\schema\label\lucene\_1a.fdt" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\schema\label\lucene\_1a.fdx" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\schema\label\lucene\_1a.fnm" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\schema\label\lucene\_1a.frq" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\schema\label\lucene\_1a.nrm" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\schema\label\lucene\_1a.tii" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\schema\label\lucene\_1a.tis" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\db\data\schema\label\lucene\segments_b" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\data\exception\ExcelMapping.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\embed\PopulateDb.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\embed\Util.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/excel/datas.xls" afterPath="$PROJECT_DIR$/data/excel/datas.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/index/lucene-store.db" afterPath="$PROJECT_DIR$/db/data/index/lucene-store.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.labeltokenstore.db.names" afterPath="$PROJECT_DIR$/db/data/neostore.labeltokenstore.db.names" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.nodestore.db" afterPath="$PROJECT_DIR$/db/data/neostore.nodestore.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.propertystore.db.arrays" afterPath="$PROJECT_DIR$/db/data/neostore.propertystore.db.arrays" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.propertystore.db.index.keys" afterPath="$PROJECT_DIR$/db/data/neostore.propertystore.db.index.keys" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.propertystore.db.strings" afterPath="$PROJECT_DIR$/db/data/neostore.propertystore.db.strings" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.propertystore.db" afterPath="$PROJECT_DIR$/db/data/neostore.propertystore.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.relationshipgroupstore.db" afterPath="$PROJECT_DIR$/db/data/neostore.relationshipgroupstore.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.relationshipstore.db" afterPath="$PROJECT_DIR$/db/data/neostore.relationshipstore.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.relationshiptypestore.db.names" afterPath="$PROJECT_DIR$/db/data/neostore.relationshiptypestore.db.names" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore" afterPath="$PROJECT_DIR$/db/data/neostore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/schema/label/lucene/segments.gen" afterPath="$PROJECT_DIR$/db/data/schema/label/lucene/segments.gen" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/tm_tx_log.1" afterPath="$PROJECT_DIR$/db/data/tm_tx_log.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/data/ExcelToEntityParser.java" afterPath="$PROJECT_DIR$/src/main/java/data/ExcelToEntityParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_retrofit_retrofit_1_6_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_retrofit_retrofit_1_6_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/index/lucene.log.active" afterPath="$PROJECT_DIR$/db/data/index/lucene.log.active" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/messages.log" afterPath="$PROJECT_DIR$/db/data/messages.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.id" afterPath="$PROJECT_DIR$/db/data/neostore.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.labeltokenstore.db.id" afterPath="$PROJECT_DIR$/db/data/neostore.labeltokenstore.db.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.labeltokenstore.db.names.id" afterPath="$PROJECT_DIR$/db/data/neostore.labeltokenstore.db.names.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.labeltokenstore.db" afterPath="$PROJECT_DIR$/db/data/neostore.labeltokenstore.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.nodestore.db.id" afterPath="$PROJECT_DIR$/db/data/neostore.nodestore.db.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.nodestore.db.labels.id" afterPath="$PROJECT_DIR$/db/data/neostore.nodestore.db.labels.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.nodestore.db.labels" afterPath="$PROJECT_DIR$/db/data/neostore.nodestore.db.labels" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.propertystore.db.arrays.id" afterPath="$PROJECT_DIR$/db/data/neostore.propertystore.db.arrays.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.propertystore.db.id" afterPath="$PROJECT_DIR$/db/data/neostore.propertystore.db.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.propertystore.db.index.id" afterPath="$PROJECT_DIR$/db/data/neostore.propertystore.db.index.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.propertystore.db.index.keys.id" afterPath="$PROJECT_DIR$/db/data/neostore.propertystore.db.index.keys.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.propertystore.db.index" afterPath="$PROJECT_DIR$/db/data/neostore.propertystore.db.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.propertystore.db.strings.id" afterPath="$PROJECT_DIR$/db/data/neostore.propertystore.db.strings.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.relationshipgroupstore.db.id" afterPath="$PROJECT_DIR$/db/data/neostore.relationshipgroupstore.db.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.relationshipstore.db.id" afterPath="$PROJECT_DIR$/db/data/neostore.relationshipstore.db.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.relationshiptypestore.db.id" afterPath="$PROJECT_DIR$/db/data/neostore.relationshiptypestore.db.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.relationshiptypestore.db.names.id" afterPath="$PROJECT_DIR$/db/data/neostore.relationshiptypestore.db.names.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.relationshiptypestore.db" afterPath="$PROJECT_DIR$/db/data/neostore.relationshiptypestore.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.schemastore.db.id" afterPath="$PROJECT_DIR$/db/data/neostore.schemastore.db.id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/neostore.schemastore.db" afterPath="$PROJECT_DIR$/db/data/neostore.schemastore.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/data/nioneo_logical.log.active" afterPath="$PROJECT_DIR$/db/data/nioneo_logical.log.active" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    <list default="true" id="165c638b-92c4-4083-9918-b09039874e8c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\TUD.iml" afterPath="$PROJECT_DIR$/JuraNetworkBus.iml" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\data\Config.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/config/Config.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\data\Neo4jFiler.java" afterPath="$PROJECT_DIR$/src/main/java/data/process/Neo4jFiler.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\data\TudLabels.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/neo4j/EntityLabels.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\data\TudProperty.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/neo4j/EntityProperties.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\data\TudRelationShipType.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/neo4j/EntityRelationshipType.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\data\entity\Locality.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/entity/neo4j/Locality.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\data\entity\Neo4jEntity.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/entity/neo4j/Neo4jEntity.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\data\entity\Relation.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/entity/neo4j/Relation.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\data\entity\Station.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/entity/neo4j/Station.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\data\exception\DataCoherenceException.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/exception/DataCoherenceException.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\tud\service\Geometry.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/entity/geomapping/Geometry.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\tud\service\GoogleMapApiTest.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/services/CoordinatesFinder.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\tud\service\GoogleMapService.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/services/GoogleMapService.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\tud\service\LocationData.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/entity/geomapping/LocationData.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\tud\service\ResultsWrapper.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/entity/geomapping/ResultsWrapper.java" />
-      <change type="MOVED" beforePath="D:\dropbox\DEV\JuraNetworkBus\src\main\java\tud\service\TudGraphService.java" afterPath="$PROJECT_DIR$/src/main/java/jura/network/bus/services/TudGraphService.java" />
     </list>
     <ignored path="TUD.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -487,7 +393,7 @@
       <file leaf-file-name="Proxy.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/jura/network/bus/config/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="23" selection-start="118" selection-end="118" vertical-scroll-proportion="0.22972973" vertical-offset="0" max-vertical-offset="518">
+            <state line="14" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="518">
               <folding />
             </state>
           </provider>
@@ -1115,17 +1021,21 @@
       <workItem from="1408428095812" duration="1962000" />
       <workItem from="1408430295897" duration="388000" />
       <workItem from="1408430691907" duration="13105000" />
-      <workItem from="1408452080334" duration="591000" />
+      <workItem from="1408452080334" duration="1210000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;">
       <created>1408029910626</created>
       <updated>1408029910626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit&#10;">
+      <created>1408452692918</created>
+      <updated>1408452692918</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94922000" />
+    <option name="totallyTimeSpent" value="95541000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1582,7 +1492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jura/network/bus/config/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="118" selection-end="118" vertical-scroll-proportion="0.22972973" vertical-offset="0" max-vertical-offset="518">
+        <state line="14" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="518">
           <folding />
         </state>
       </provider>
