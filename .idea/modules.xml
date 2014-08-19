@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TUD.iml" filepath="$PROJECT_DIR$/TUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JuraNetworkBus.iml" filepath="$PROJECT_DIR$/JuraNetworkBus.iml" />
     </modules>
   </component>
 </project>
