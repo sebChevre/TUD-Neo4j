@@ -1,4 +1,4 @@
-package jura.network.bus.services;
+package jura.network.bus.geomapping;
 
 import jura.network.bus.entity.geomapping.LocationData;
 import retrofit.http.GET;
